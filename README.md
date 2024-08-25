@@ -1,3 +1,8 @@
+## Update (August 2024)
+
+Due to a few requests, I've made a similar model more easily available on Replicate! https://replicate.com/meghabyte/arrival-logograms 
+
+
 ## Overview
 *Train a text-to-image model to generate Arrival-inspired logograms for novel concepts!*
 
